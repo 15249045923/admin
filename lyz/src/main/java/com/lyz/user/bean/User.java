@@ -27,6 +27,11 @@ public class User implements Serializable{
 	
 	
 	
+	
+	
+	
+	
+	
 	/**
 	 * 姓名
 	 */
