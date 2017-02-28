@@ -33,7 +33,7 @@ public class User implements Serializable{
 	
 	
 	/**
-	 * 姓名
+	 * 姓名1234565456
 	 */
 	private String name;
 	
