@@ -22,6 +22,11 @@ public class User implements Serializable{
 	 */
 	private Integer id;
 	
+	
+	
+	
+	
+	
 	/**
 	 * 姓名
 	 */
